@@ -5,7 +5,7 @@ Demo and Doc site for Jolt
 
 # Demo Server
 
-http://20.199.72.212:8080/jolt/#inception
+http://20.199.72.212:8080/#inception
 
 # Tech
 
